@@ -1,0 +1,7 @@
+{
+  "name": "t09databetweenpage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
